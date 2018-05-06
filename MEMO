@@ -1,0 +1,6 @@
+Sun May  6 12:30:11 CEST 2018
+================================================================================
+https://tuannguyen68.gitbooks.io/learning-cmake-a-beginner-s-guide/content/chap1/chap1.html
+cmake -H. -B../build
+cmake --build ../build -- -j3
+
